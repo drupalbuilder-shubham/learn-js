@@ -6,8 +6,8 @@ accountEmail = "ram2gmail.com"
 accountPassword ="66646464"
 accountCity="Delhi"
 
-
-
+// accoundId =2 is support due to const variables one one the can't be assign again value
+// prefer not to use var becouse of issue in block scope and functional scope
 
 
 console.log(accoundId);
